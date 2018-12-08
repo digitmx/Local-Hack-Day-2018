@@ -1,0 +1,42 @@
+[
+    {
+        "key": "group_5c0b6c1263e19",
+        "title": "Variables Correo Electrónico de Registro",
+        "fields": [
+            {
+                "key": "field_5c0b6c145d129",
+                "label": "Explicación de uso",
+                "name": "",
+                "type": "message",
+                "instructions": "",
+                "required": 0,
+                "conditional_logic": 0,
+                "wrapper": {
+                    "width": "",
+                    "class": "",
+                    "id": ""
+                },
+                "message": "<p>Estas son las variables que puedes utilizer en este template de correo electrónico:<\/p>\r\n\r\n<ul>\r\n     <li><b>@email@<\/b>: Imprime el correo electrónico del usuario.<\/li>\r\n     <li><b>@password@<\/b>: Imprime la contraseña del usuario.<\/li>\r\n<\/ul>",
+                "new_lines": "wpautop",
+                "esc_html": 0
+            }
+        ],
+        "location": [
+            [
+                {
+                    "param": "page",
+                    "operator": "==",
+                    "value": "17"
+                }
+            ]
+        ],
+        "menu_order": 0,
+        "position": "acf_after_title",
+        "style": "default",
+        "label_placement": "top",
+        "instruction_placement": "label",
+        "hide_on_screen": "",
+        "active": 1,
+        "description": ""
+    }
+]

@@ -1,0 +1,40 @@
+/*
+Theme Name: Local Hack Day 2018
+Theme URI: 
+Description: Demo Usuarios
+Author: Emiliano Hernández
+Author URI: http://twitter.com/milioh
+Version: 1.0
+Tags: black, blue, white, two-columns, fixed-width, custom-header, custom-background, threaded-comments, sticky-post, translation-ready, microformats, rtl-language-support, editor-style, custom-menu (optional)
+
+License: 
+License URI: 
+
+Lead Project: @milioh
+Design: @milioh
+UX & HTML Building: @milioh
+Development & Functions: @milioh
+*/
+
+
+/* FONTS */
+
+
+/* COLORS */
+
+
+/* GENERAL */
+.space20 { margin-top: 20px; display: block; }
+.centered { text-align: center; margin: 0 auto; }
+.error { color: red; }
+
+
+/* STYLES FOR TABLETS */
+@media only screen  and (max-width : 992px) {
+	
+}
+
+/* STYLES FOR SMARTPHONES */
+@media only screen  and (max-width : 600px) {
+	
+}
